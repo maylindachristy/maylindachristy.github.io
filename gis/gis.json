@@ -1,0 +1,3720 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "tukangbatagor"
+        },
+        "geometry": {
+          "coordinates": [
+            107.58827332992252,
+            -6.807294348226392
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "rumahsaudara"
+        },
+        "geometry": {
+          "coordinates": [
+            107.58892773579709,
+            -6.808330921002295
+          ],
+          "type": "Point"
+        },
+        "id": 1
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "lembangparkzoo"
+        },
+        "geometry": {
+          "coordinates": [
+            107.59129606181745,
+            -6.805453265685841
+          ],
+          "type": "Point"
+        },
+        "id": 2
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "villaistanabunga"
+        },
+        "geometry": {
+          "coordinates": [
+            107.5828199476382,
+            -6.802952063496022
+          ],
+          "type": "Point"
+        },
+        "id": 3
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jadulvillage"
+        },
+        "geometry": {
+          "coordinates": [
+            107.59313463070288,
+            -6.810037908789226
+          ],
+          "type": "Point"
+        },
+        "id": 4
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "cucimotor"
+        },
+        "geometry": {
+          "coordinates": [
+            107.5901430609918,
+            -6.8088311565010855
+          ],
+          "type": "Point"
+        },
+        "id": 5
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "tahusumedang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.59416298279041,
+            -6.805798791205248
+          ],
+          "type": "Point"
+        },
+        "id": 6
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "sapulidiresort"
+        },
+        "geometry": {
+          "coordinates": [
+            107.59743501216155,
+            -6.812358577735509
+          ],
+          "type": "Point"
+        },
+        "id": 7
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "alfamart"
+        },
+        "geometry": {
+          "coordinates": [
+            107.58785737460562,
+            -6.803866622309769
+          ],
+          "type": "Point"
+        },
+        "id": 8
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "gym"
+        },
+        "geometry": {
+          "coordinates": [
+            107.58806398736806,
+            -6.8037640434505136
+          ],
+          "type": "Point"
+        },
+        "id": 9
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "lapangan"
+        },
+        "geometry": {
+          "coordinates": [
+            107.58271223514856,
+            -6.802366607996518
+          ],
+          "type": "Point"
+        },
+        "id": 10
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "tkkartika"
+        },
+        "geometry": {
+          "coordinates": [
+            107.58332539075548,
+            -6.802951564526396
+          ],
+          "type": "Point"
+        },
+        "id": 11
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "kecparongpong"
+        },
+        "geometry": {
+          "coordinates": [
+            107.58002354875794,
+            -6.803164410461008
+          ],
+          "type": "Point"
+        },
+        "id": 12
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "alfamartunai"
+        },
+        "geometry": {
+          "coordinates": [
+            107.5806613181851,
+            -6.803371195354259
+          ],
+          "type": "Point"
+        },
+        "id": 13
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "unai"
+        },
+        "geometry": {
+          "coordinates": [
+            107.57989602909919,
+            -6.802424075268078
+          ],
+          "type": "Point"
+        },
+        "id": 14
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "gerejaadvent"
+        },
+        "geometry": {
+          "coordinates": [
+            107.57816994443084,
+            -6.80178518105015
+          ],
+          "type": "Point"
+        },
+        "id": 15
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "sdncihideung"
+        },
+        "geometry": {
+          "coordinates": [
+            107.5940985653416,
+            -6.811404964971217
+          ],
+          "type": "Point"
+        },
+        "id": 16
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "rumahmaylinda"
+        },
+        "geometry": {
+          "coordinates": [
+            107.58890386508995,
+            -6.807553662509093
+          ],
+          "type": "Point"
+        },
+        "id": 17
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "villaastuti"
+        },
+        "geometry": {
+          "coordinates": [
+            107.58847640623208,
+            -6.806794557947271
+          ],
+          "type": "Point"
+        },
+        "id": 18
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "indomaret"
+        },
+        "geometry": {
+          "coordinates": [
+            107.58850785887705,
+            -6.804299813901153
+          ],
+          "type": "Point"
+        },
+        "id": 19
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "tokomerahdelima"
+        },
+        "geometry": {
+          "coordinates": [
+            107.58829412944829,
+            -6.804528362826105
+          ],
+          "type": "Point"
+        },
+        "id": 20
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "fotocopy"
+        },
+        "geometry": {
+          "coordinates": [
+            107.58757895789779,
+            -6.803867203140513
+          ],
+          "type": "Point"
+        },
+        "id": 21
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "kampungdaun"
+        },
+        "geometry": {
+          "coordinates": [
+            107.5895583218047,
+            -6.816090402950735
+          ],
+          "type": "Point"
+        },
+        "id": 22
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "alfamart2"
+        },
+        "geometry": {
+          "coordinates": [
+            107.59689916397588,
+            -6.807976575692251
+          ],
+          "type": "Point"
+        },
+        "id": 23
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "minizoo"
+        },
+        "geometry": {
+          "coordinates": [
+            107.59450654206307,
+            -6.808207827572119
+          ],
+          "type": "Point"
+        },
+        "id": 24
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "pombensin"
+        },
+        "geometry": {
+          "coordinates": [
+            107.59619823188979,
+            -6.806149632379146
+          ],
+          "type": "Point"
+        },
+        "id": 25
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "pombensinmini"
+        },
+        "geometry": {
+          "coordinates": [
+            107.58866988669502,
+            -6.8070775321815375
+          ],
+          "type": "Point"
+        },
+        "id": 26
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "tukanggalon2"
+        },
+        "geometry": {
+          "coordinates": [
+            107.59261875031274,
+            -6.810285117461802
+          ],
+          "type": "Point"
+        },
+        "id": 27
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "tokosayur"
+        },
+        "geometry": {
+          "coordinates": [
+            107.58718705595896,
+            -6.807458294263711
+          ],
+          "type": "Point"
+        },
+        "id": 28
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "tukanggalon"
+        },
+        "geometry": {
+          "coordinates": [
+            107.58686921402256,
+            -6.807837015528037
+          ],
+          "type": "Point"
+        },
+        "id": 29
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "pasarpatrol"
+        },
+        "geometry": {
+          "coordinates": [
+            107.5892662446501,
+            -6.804322678585791
+          ],
+          "type": "Point"
+        },
+        "id": 30
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "apotek"
+        },
+        "geometry": {
+          "coordinates": [
+            107.58901197110191,
+            -6.804777147035082
+          ],
+          "type": "Point"
+        },
+        "id": 31
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "tokosaluyu"
+        },
+        "geometry": {
+          "coordinates": [
+            107.5892662446501,
+            -6.8038050889936414
+          ],
+          "type": "Point"
+        },
+        "id": 32
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "terminalparongpong"
+        },
+        "geometry": {
+          "coordinates": [
+            107.58225084320674,
+            -6.802963170390825
+          ],
+          "type": "Point"
+        },
+        "id": 33
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "pasarparongpong"
+        },
+        "geometry": {
+          "coordinates": [
+            107.58190757391594,
+            -6.80287480122621
+          ],
+          "type": "Point"
+        },
+        "id": 34
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "sdkartika"
+        },
+        "geometry": {
+          "coordinates": [
+            107.58333150578972,
+            -6.802104726382083
+          ],
+          "type": "Point"
+        },
+        "id": 35
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "sdkaryawangi"
+        },
+        "geometry": {
+          "coordinates": [
+            107.5821109927532,
+            -6.803430264280763
+          ],
+          "type": "Point"
+        },
+        "id": 36
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "gorunai"
+        },
+        "geometry": {
+          "coordinates": [
+            107.57780512911648,
+            -6.803438850744229
+          ],
+          "type": "Point"
+        },
+        "id": 37
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "villagrahapuspa"
+        },
+        "geometry": {
+          "coordinates": [
+            107.596426311362,
+            -6.812328976612136
+          ],
+          "type": "Point"
+        },
+        "id": 38
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "rumahmakan"
+        },
+        "geometry": {
+          "coordinates": [
+            107.59215265785639,
+            -6.809755054673474
+          ],
+          "type": "Point"
+        },
+        "id": 39
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "villachocolate"
+        },
+        "geometry": {
+          "coordinates": [
+            107.59339527526333,
+            -6.8133672815791755
+          ],
+          "type": "Point"
+        },
+        "id": 40
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "masjid"
+        },
+        "geometry": {
+          "coordinates": [
+            107.59098476915858,
+            -6.811734341958797
+          ],
+          "type": "Point"
+        },
+        "id": 42
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "angkringan",
+          "name": ""
+        },
+        "geometry": {
+          "coordinates": [
+            107.5898133082481,
+            -6.810213242517548
+          ],
+          "type": "Point"
+        },
+        "id": 43
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "tokobungaa"
+        },
+        "geometry": {
+          "coordinates": [
+            107.58988089252995,
+            -6.811756711032814
+          ],
+          "type": "Point"
+        },
+        "id": 44
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "tukangcireng"
+        },
+        "geometry": {
+          "coordinates": [
+            107.58805611688246,
+            -6.8098329669034
+          ],
+          "type": "Point"
+        },
+        "id": 46
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "tukangbunga"
+        },
+        "geometry": {
+          "coordinates": [
+            107.58823634163821,
+            -6.811152745682989
+          ],
+          "type": "Point"
+        },
+        "id": 47
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "tokoseblak"
+        },
+        "geometry": {
+          "coordinates": [
+            107.59006111728581,
+            -6.812852794353191
+          ],
+          "type": "Point"
+        },
+        "id": 47
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "tukangbakso"
+        },
+        "geometry": {
+          "coordinates": [
+            107.59525044677326,
+            -6.804326903306446
+          ],
+          "type": "Point"
+        },
+        "id": 49
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "mtsmujahiddin"
+        },
+        "geometry": {
+          "coordinates": [
+            107.59380363004436,
+            -6.804079209075596
+          ],
+          "type": "Point"
+        },
+        "id": 50
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "tanjakan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58894706029412,
+              -6.805334108687603
+            ],
+            [
+              107.58856643101313,
+              -6.807274916510622
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 51
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnciwaruga"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58819952069496,
+              -6.804133028337702
+            ],
+            [
+              107.58741505271428,
+              -6.806368250716744
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 52
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnkolonelmasturi"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.60268678315924,
+              -6.814632234113745
+            ],
+            [
+              107.59670161023928,
+              -6.806787556357534
+            ],
+            [
+              107.59366912262732,
+              -6.805361237532125
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 57
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnjadul"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.59292523019883,
+              -6.810134150691184
+            ],
+            [
+              107.59445688279737,
+              -6.8091571823342605
+            ],
+            [
+              107.59466989408497,
+              -6.809358619271919
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 56
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnsinarmulya"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.5845189861368,
+              -6.807606599663842
+            ],
+            [
+              107.58695723982487,
+              -6.80794974239376
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 63
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnmts"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.59234845848283,
+              -6.804708159443706
+            ],
+            [
+              107.59265201442685,
+              -6.80424810073751
+            ],
+            [
+              107.5930833834006,
+              -6.804406741721365
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 65
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnpuspakenanga"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.5999834079455,
+              -6.814394210914031
+            ],
+            [
+              107.60018214869882,
+              -6.817354253697559
+            ],
+            [
+              107.59640607439178,
+              -6.817091139523271
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 55
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnpojok"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.60422074198226,
+              -6.814991344880113
+            ],
+            [
+              107.60614247248338,
+              -6.805948276029966
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 56
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "cisarua"
+        },
+        "geometry": {
+          "coordinates": [
+            107.57360345632105,
+            -6.797347319205045
+          ],
+          "type": "Point"
+        },
+        "id": 102
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "curugbubrug"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.57934335926205,
+                -6.791289342186005
+              ],
+              [
+                107.57961945257699,
+                -6.793665355901325
+              ],
+              [
+                107.58296324939488,
+                -6.791441651109125
+              ],
+              [
+                107.57934335926205,
+                -6.791289342186005
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 112
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "curugcimahi"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.5772385396017,
+                -6.798658910284431
+              ],
+              [
+                107.5772385396017,
+                -6.799099408427054
+              ],
+              [
+                107.57758357562255,
+                -6.799344129443924
+              ],
+              [
+                107.57744391818557,
+                -6.7997193680926955
+              ],
+              [
+                107.57771501791638,
+                -6.799866200527745
+              ],
+              [
+                107.57799433279041,
+                -6.7990504642099125
+              ],
+              [
+                107.5772385396017,
+                -6.798658910284431
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 112
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "luaskecparongpong"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.5799436177083,
+                -6.802998512406873
+              ],
+              [
+                107.57981855593249,
+                -6.803318517843621
+              ],
+              [
+                107.5801648808523,
+                -6.80342359420861
+              ],
+              [
+                107.58026108221867,
+                -6.803060603031099
+              ],
+              [
+                107.5799436177083,
+                -6.802998512406873
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 108
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "universitasadvent"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.5788253239453,
+                -6.80034473456837
+              ],
+              [
+                107.57777974374955,
+                -6.802031846134227
+              ],
+              [
+                107.58160264633864,
+                -6.803232287294108
+              ],
+              [
+                107.58163532071904,
+                -6.8024211787317626
+              ],
+              [
+                107.5788253239453,
+                -6.80034473456837
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 105
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlncisarua"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.57681585727568,
+              -6.801918292156415
+            ],
+            [
+              107.57671783413286,
+              -6.8009125145820235
+            ],
+            [
+              107.5784005647601,
+              -6.799387621987933
+            ],
+            [
+              107.57867829699808,
+              -6.797522055316321
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 110
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlncihanjuang"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.57914632573255,
+              -6.802776937489341
+            ],
+            [
+              107.57769387288181,
+              -6.808800319390201
+            ],
+            [
+              107.57754435567568,
+              -6.808736692511943
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 111
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "luassdkaryawangi"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.5817890267208,
+                -6.803313276619718
+              ],
+              [
+                107.58173223468782,
+                -6.803505009864935
+              ],
+              [
+                107.58233990945467,
+                -6.8036347117230065
+              ],
+              [
+                107.5824534935229,
+                -6.80311026486514
+              ],
+              [
+                107.5817890267208,
+                -6.803313276619718
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 111
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "luasterminalparongpong"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.58198208495185,
+                -6.803095027032157
+              ],
+              [
+                107.58262837564513,
+                -6.802941276743454
+              ],
+              [
+                107.58237928443998,
+                -6.802713993618397
+              ],
+              [
+                107.58198208495185,
+                -6.803095027032157
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 112
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "luasvillaistanabunga"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.5792038675711,
+                -6.800028978226067
+              ],
+              [
+                107.58224279984256,
+                -6.801769872039856
+              ],
+              [
+                107.58493108608297,
+                -6.793490898477131
+              ],
+              [
+                107.58197007515196,
+                -6.792523719367608
+              ],
+              [
+                107.5792038675711,
+                -6.800028978226067
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 113
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnsdkartika"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.5829670819756,
+              -6.802755653539364
+            ],
+            [
+              107.58325341637828,
+              -6.80165284091035
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 112
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnterminal"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58274729452125,
+              -6.80292711420249
+            ],
+            [
+              107.58168536669967,
+              -6.803294640646868
+            ],
+            [
+              107.5810993235458,
+              -6.8033340184635165
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 112
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "lapangankav"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.58237885045037,
+                -6.802430322387124
+              ],
+              [
+                107.58284493221885,
+                -6.80259979869885
+              ],
+              [
+                107.58316002975323,
+                -6.801726343220778
+              ],
+              [
+                107.58265456079266,
+                -6.80155686660089
+              ],
+              [
+                107.58237885045037,
+                -6.802430322387124
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 113
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlndenkavkud"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58363110514438,
+              -6.803252175430359
+            ],
+            [
+              107.5844636700972,
+              -6.800583697326331
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 110
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "patrol"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.58860433159498,
+                -6.804529551589354
+              ],
+              [
+                107.5890621858183,
+                -6.804462199115662
+              ],
+              [
+                107.58912153729199,
+                -6.804150693802967
+              ],
+              [
+                107.5889689192175,
+                -6.803586616099722
+              ],
+              [
+                107.58797690173219,
+                -6.803746578501077
+              ],
+              [
+                107.58860433159498,
+                -6.804529551589354
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 71
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnnagrakkulon"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.59036710996395,
+              -6.803466669905987
+            ],
+            [
+              107.59367138803441,
+              -6.798328719640324
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 101
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnmasuklembangparkzoo"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.59095451936025,
+              -6.803977492813289
+            ],
+            [
+              107.59104108308321,
+              -6.80499666155184
+            ],
+            [
+              107.5909668856064,
+              -6.805328197903947
+            ],
+            [
+              107.59194381907145,
+              -6.806114060935926
+            ],
+            [
+              107.59275999133456,
+              -6.807133225139026
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 73
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "luasrumahmay"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.58885495984947,
+                -6.8072863174848095
+              ],
+              [
+                107.58882275032789,
+                -6.807340687660172
+              ],
+              [
+                107.5890514379281,
+                -6.807391859584897
+              ],
+              [
+                107.58906110078482,
+                -6.807353480642746
+              ],
+              [
+                107.58906754269003,
+                -6.807318299941315
+              ],
+              [
+                107.58885495984947,
+                -6.8072863174848095
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 97
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "luasvillaastuti"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.58842073354049,
+                -6.806338047896261
+              ],
+              [
+                107.58839526001373,
+                -6.806656752180942
+              ],
+              [
+                107.5886805635106,
+                -6.8066972225512785
+              ],
+              [
+                107.58871113174166,
+                -6.806332989096475
+              ],
+              [
+                107.58842073354049,
+                -6.806338047896261
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 87
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "gangbebera"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58925293868754,
+              -6.805810240120721
+            ],
+            [
+              107.59080468143867,
+              -6.808549447218837
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 88
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "luasjadul"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.59295215518574,
+                -6.809125468830445
+              ],
+              [
+                107.59342144765952,
+                -6.809737070321262
+              ],
+              [
+                107.5937538631627,
+                -6.808717734070299
+              ],
+              [
+                107.59357787848478,
+                -6.808688610146191
+              ],
+              [
+                107.59320635527621,
+                -6.809008973219974
+              ],
+              [
+                107.59295215518574,
+                -6.809125468830445
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 85
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnsdcihideung"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.59392093021165,
+              -6.811626775506596
+            ],
+            [
+              107.59367650704928,
+              -6.8108404336871615
+            ],
+            [
+              107.59437555729687,
+              -6.8106705448531955
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 86
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "luassdncihideung"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.59394048406614,
+                -6.811180211175412
+              ],
+              [
+                107.5939747033093,
+                -6.8115927978001025
+              ],
+              [
+                107.59447332656396,
+                -6.811563674050561
+              ],
+              [
+                107.59442933039276,
+                -6.811117109659747
+              ],
+              [
+                107.59437555729687,
+                -6.811141379474648
+              ],
+              [
+                107.59394048406614,
+                -6.811180211175412
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 87
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnpancuran12"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.59066994766414,
+              -6.808757049998121
+            ],
+            [
+              107.59013497686419,
+              -6.811831021237666
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 87
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "desacihideung"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.5946289163129,
+                -6.811101773086946
+              ],
+              [
+                107.59464970846835,
+                -6.811659198948547
+              ],
+              [
+                107.59568931616406,
+                -6.811514681194836
+              ],
+              [
+                107.5956269397036,
+                -6.810585637451581
+              ],
+              [
+                107.5946289163129,
+                -6.811101773086946
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 88
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "grahapuspa"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.59522879155594,
+                -6.812054530087011
+              ],
+              [
+                107.59566542678886,
+                -6.814604226910745
+              ],
+              [
+                107.59738077948845,
+                -6.814439064773879
+              ],
+              [
+                107.59654909333153,
+                -6.811084196561893
+              ],
+              [
+                107.59522879155594,
+                -6.812054530087011
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 86
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "sapulidiresort"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.59696790274529,
+                -6.811744846568885
+              ],
+              [
+                107.59727978505543,
+                -6.813313893384986
+              ],
+              [
+                107.59867285936815,
+                -6.812942277498024
+              ],
+              [
+                107.59783077713445,
+                -6.811569360750525
+              ],
+              [
+                107.59696790274529,
+                -6.811744846568885
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 87
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "kampungdaunn"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.58829226825998,
+                -6.814200965790732
+              ],
+              [
+                107.58689893119856,
+                -6.8195811928032555
+              ],
+              [
+                107.59235616801959,
+                -6.8191968928771445
+              ],
+              [
+                107.59336246700798,
+                -6.814662130472229
+              ],
+              [
+                107.58829226825998,
+                -6.814200965790732
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 85
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnpamecelan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.59746628592922,
+              -6.807300303024618
+            ],
+            [
+              107.59973555434715,
+              -6.803695055863628
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 85
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "curugairpanas"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.59327533808158,
+                -6.798352191808277
+              ],
+              [
+                107.59464143571387,
+                -6.7969077763464725
+              ],
+              [
+                107.59274407789047,
+                -6.795501037116679
+              ],
+              [
+                107.59144122551771,
+                -6.797020817712948
+              ],
+              [
+                107.59327533808158,
+                -6.798352191808277
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 86
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnsukawana"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58750119277244,
+              -6.803347741259316
+            ],
+            [
+              107.58762768329365,
+              -6.800873417845551
+            ],
+            [
+              107.58857636220415,
+              -6.798700524338869
+            ],
+            [
+              107.58876133276425,
+              -6.797103401149769
+            ],
+            [
+              107.58870542750151,
+              -6.795391767824739
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "luaslembangparkzoo"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.5912162554597,
+                -6.804485912152771
+              ],
+              [
+                107.59182367807318,
+                -6.808880227409588
+              ],
+              [
+                107.59368933323998,
+                -6.808234007100836
+              ],
+              [
+                107.59290836130839,
+                -6.8051967599946295
+              ],
+              [
+                107.5912162554597,
+                -6.804485912152771
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 88
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "tukangayam"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.58901517255691,
+                -6.80754764099072
+              ],
+              [
+                107.589000288715,
+                -6.807798882389321
+              ],
+              [
+                107.58957331663902,
+                -6.807784103486128
+              ],
+              [
+                107.58957331663902,
+                -6.807503304259228
+              ],
+              [
+                107.58901517255691,
+                -6.80754764099072
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 89
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "lapakberjualan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.5898486677209,
+                -6.808227470353032
+              ],
+              [
+                107.58985610964186,
+                -6.8085230480371735
+              ],
+              [
+                107.59071937248973,
+                -6.808589552990867
+              ],
+              [
+                107.59054076638421,
+                -6.808183133685731
+              ],
+              [
+                107.5898486677209,
+                -6.808227470353032
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 90
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "denkavkud"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.58395473527986,
+                -6.803337034502007
+              ],
+              [
+                107.5851539332005,
+                -6.800873399422144
+              ],
+              [
+                107.58436825180343,
+                -6.800544913789508
+              ],
+              [
+                107.58326002751772,
+                -6.802992126352663
+              ],
+              [
+                107.58395473527986,
+                -6.803337034502007
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 91
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "gedungputih"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.59355256908174,
+                -6.81593929216271
+              ],
+              [
+                107.5927072861619,
+                -6.819183096702659
+              ],
+              [
+                107.59467199781432,
+                -6.819409935358834
+              ],
+              [
+                107.59458061587878,
+                -6.816211500380973
+              ],
+              [
+                107.59355256908174,
+                -6.81593929216271
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 92
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "kebunteh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.58736194107598,
+                -6.802792476104841
+              ],
+              [
+                107.58859466922172,
+                -6.794156049848269
+              ],
+              [
+                107.58523890926989,
+                -6.793612017803426
+              ],
+              [
+                107.58448557540362,
+                -6.794972096763232
+              ],
+              [
+                107.58698527414288,
+                -6.7958901478863964
+              ],
+              [
+                107.58496496968155,
+                -6.802724473354701
+              ],
+              [
+                107.58736194107598,
+                -6.802792476104841
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 93
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlncihanjuangrahayu"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58056536653095,
+              -6.807428389405928
+            ],
+            [
+              107.57883114123825,
+              -6.814197580134703
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnbarunagri"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.60218203243932,
+              -6.804322654872379
+            ],
+            [
+              107.60158704263341,
+              -6.805366398705871
+            ],
+            [
+              107.60142837868494,
+              -6.809206568746248
+            ],
+            [
+              107.60170604059573,
+              -6.810841093336705
+            ],
+            [
+              107.60142837868494,
+              -6.812062059879523
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "sdnbarunagri"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.60025151141008,
+                -6.808835179813201
+              ],
+              [
+                107.60032919611785,
+                -6.810242924637407
+              ],
+              [
+                107.6012419914328,
+                -6.810165788042397
+              ],
+              [
+                107.60126141260935,
+                -6.808642337734355
+              ],
+              [
+                107.60025151141008,
+                -6.808835179813201
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 96
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "sdncikahuripan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.60460185503814,
+                -6.807928821370339
+              ],
+              [
+                107.60436880091481,
+                -6.80912444278475
+              ],
+              [
+                107.60537870211402,
+                -6.809259432112867
+              ],
+              [
+                107.60553407152958,
+                -6.8081216637349655
+              ],
+              [
+                107.60460185503814,
+                -6.807928821370339
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 97
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "kampunglegok"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.59946287674865,
+                -6.811124101797532
+              ],
+              [
+                107.60047277794786,
+                -6.812512555849835
+              ],
+              [
+                107.60132730973334,
+                -6.811394079288789
+              ],
+              [
+                107.60047277794786,
+                -6.810641998755585
+              ],
+              [
+                107.59946287674865,
+                -6.811124101797532
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 98
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnpusparaya"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.5985912671008,
+              -6.813149163440144
+            ],
+            [
+              107.59846480985368,
+              -6.816884685205025
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnsersanbajuri"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.59477260390321,
+              -6.812660453693283
+            ],
+            [
+              107.59516303674644,
+              -6.813893967041864
+            ],
+            [
+              107.5947016161133,
+              -6.817788324071742
+            ],
+            [
+              107.59482584474597,
+              -6.819656194495693
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "gangmadja"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58347323457588,
+              -6.803239197765919
+            ],
+            [
+              107.58196652125736,
+              -6.8078920594950745
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "gangsahari"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58250971395461,
+              -6.803134855675353
+            ],
+            [
+              107.58204268293139,
+              -6.80490866812049
+            ],
+            [
+              107.5814005152713,
+              -6.806230328036023
+            ],
+            [
+              107.58124873018943,
+              -6.8065665391885375
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnlembangasri"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.59476505068977,
+              -6.795741147459324
+            ],
+            [
+              107.59797236660842,
+              -6.7872907841907875
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "lembangasri"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.59352105950688,
+                -6.79428229575629
+              ],
+              [
+                107.59592259847784,
+                -6.796376151056492
+              ],
+              [
+                107.59967134223825,
+                -6.788000675163943
+              ],
+              [
+                107.5969769326606,
+                -6.786313929744381
+              ],
+              [
+                107.59352105950688,
+                -6.79428229575629
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 104
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "desasukajaya"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.60245592576996,
+                -6.79915232000792
+              ],
+              [
+                107.60262905625615,
+                -6.804051812794313
+              ],
+              [
+                107.60587525286712,
+                -6.805405611198296
+              ],
+              [
+                107.60667598136325,
+                -6.800011883760305
+              ],
+              [
+                107.60500960043623,
+                -6.798958917951978
+              ],
+              [
+                107.60245592576996,
+                -6.79915232000792
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 105
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnnagrakwetan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.59645202059465,
+              -6.80588015648992
+            ],
+            [
+              107.59890318430007,
+              -6.802994809041095
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnpasirsereh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.59493459920594,
+              -6.820359402943808
+            ],
+            [
+              107.59474831378827,
+              -6.822347795632012
+            ],
+            [
+              107.59482282795574,
+              -6.822893446135836
+            ],
+            [
+              107.59447819993244,
+              -6.823892262395773
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "gunungsereh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.59506102260423,
+                -6.820685107819855
+              ],
+              [
+                107.59483938320659,
+                -6.822375248491355
+              ],
+              [
+                107.59500782914836,
+                -6.82279778272725
+              ],
+              [
+                107.59458228150612,
+                -6.823827708365627
+              ],
+              [
+                107.5968839556192,
+                -6.824272768135472
+              ],
+              [
+                107.59709496418532,
+                -6.821391947131545
+              ],
+              [
+                107.59506102260423,
+                -6.820685107819855
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 108
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "rumahstroberi"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.58576374056724,
+                -6.819367441674217
+              ],
+              [
+                107.5858253976067,
+                -6.820668382804968
+              ],
+              [
+                107.58756720896866,
+                -6.82059185695276
+              ],
+              [
+                107.58710478117331,
+                -6.819046032144726
+              ],
+              [
+                107.58576374056724,
+                -6.819367441674217
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 109
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "pasirpanjang"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.58115046243466,
+                -6.817617091730938
+              ],
+              [
+                107.58104256261532,
+                -6.818918037614182
+              ],
+              [
+                107.58269188841871,
+                -6.819162921150493
+              ],
+              [
+                107.58281520249761,
+                -6.817846670673532
+              ],
+              [
+                107.58115046243466,
+                -6.817617091730938
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 110
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "komplekpendidikanazzahra"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.57752605735294,
+                -6.816690646291704
+              ],
+              [
+                107.57826240821231,
+                -6.815371015873268
+              ],
+              [
+                107.57630479251117,
+                -6.814853862420662
+              ],
+              [
+                107.57574803942208,
+                -6.816387488273591
+              ],
+              [
+                107.57752605735294,
+                -6.816690646291704
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 111
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "rsjcisarua"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.5665462203919,
+                -6.806397854239691
+              ],
+              [
+                107.56273239453213,
+                -6.808222050893875
+              ],
+              [
+                107.5614533675664,
+                -6.81094678741232
+              ],
+              [
+                107.5667787707485,
+                -6.8102540592558825
+              ],
+              [
+                107.5665462203919,
+                -6.806397854239691
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 112
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnsitulembang"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.57623817313811,
+              -6.792809504928485
+            ],
+            [
+              107.57508122961184,
+              -6.793664441617892
+            ],
+            [
+              107.57444894652184,
+              -6.794599526883914
+            ],
+            [
+              107.57427405970981,
+              -6.79562811857555
+            ],
+            [
+              107.57327855016297,
+              -6.797591787512147
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "gunungtangkubanparahu"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.60799100373885,
+                -6.752318463788015
+              ],
+              [
+                107.60234233801788,
+                -6.770728730310566
+              ],
+              [
+                107.61769512177278,
+                -6.776194143072999
+              ],
+              [
+                107.6310201793728,
+                -6.74138703651731
+              ],
+              [
+                107.60857035406855,
+                -6.733475981416987
+              ],
+              [
+                107.60799100373885,
+                -6.752318463788015
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 114
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "desacikahuripan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.6087820407979,
+                -6.804956489635515
+              ],
+              [
+                107.60827577243657,
+                -6.808642955597989
+              ],
+              [
+                107.61570104175252,
+                -6.8092294362087245
+              ],
+              [
+                107.61620731011385,
+                -6.80478892232793
+              ],
+              [
+                107.61637606623492,
+                -6.80395108491372
+              ],
+              [
+                107.6087820407979,
+                -6.804956489635515
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 115
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "grandhotellembang"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.61422843911345,
+                -6.815349880465874
+              ],
+              [
+                107.61314618982942,
+                -6.817727024100904
+              ],
+              [
+                107.61583541532417,
+                -6.819615705158711
+              ],
+              [
+                107.61704884633986,
+                -6.816684989986001
+              ],
+              [
+                107.61422843911345,
+                -6.815349880465874
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 116
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "floatingmarket"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.61750798240075,
+                -6.817368825129677
+              ],
+              [
+                107.61658971028055,
+                -6.81971339535518
+              ],
+              [
+                107.61927893577524,
+                -6.820690296229969
+              ],
+              [
+                107.61947570837123,
+                -6.818085222804413
+              ],
+              [
+                107.61750798240075,
+                -6.817368825129677
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 117
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jayagiri"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.61805373435578,
+                -6.808899392718288
+              ],
+              [
+                107.61652528298919,
+                -6.811517368673293
+              ],
+              [
+                107.61935291801859,
+                -6.812390024149806
+              ],
+              [
+                107.62099600323876,
+                -6.80996176149479
+              ],
+              [
+                107.61805373435578,
+                -6.808899392718288
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 118
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnbaruajak"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.61716837787174,
+              -6.81684086916502
+            ],
+            [
+              107.61490701801608,
+              -6.823504512048473
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnbaruadjak"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.61249812781773,
+              -6.818000386920318
+            ],
+            [
+              107.615849303907,
+              -6.8199736543650715
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "lembangwonderland"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.61237960182746,
+                -6.817572028124957
+              ],
+              [
+                107.61295421503536,
+                -6.816790162388003
+              ],
+              [
+                107.61239378980554,
+                -6.816515452502898
+              ],
+              [
+                107.61192558645081,
+                -6.8173536693502825
+              ],
+              [
+                107.61237960182746,
+                -6.817572028124957
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 121
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnrayalembang"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.60970239843743,
+              -6.821411663256001
+            ],
+            [
+              107.61645697155228,
+              -6.811787178299298
+            ],
+            [
+              107.63015692493309,
+              -6.8177740853607816
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "smpn3lembang"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.61291818563075,
+                -6.816520595992941
+              ],
+              [
+                107.61323561086448,
+                -6.8160970707219235
+              ],
+              [
+                107.61237261101189,
+                -6.815506104601951
+              ],
+              [
+                107.61112274915553,
+                -6.817150958493315
+              ],
+              [
+                107.61162864562107,
+                -6.817387344217849
+              ],
+              [
+                107.61238253055024,
+                -6.816254661563491
+              ],
+              [
+                107.61291818563075,
+                -6.816520595992941
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 123
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "smpn1lembang"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.62104249596342,
+                -6.813492673481832
+              ],
+              [
+                107.62143105366232,
+                -6.812397237336597
+              ],
+              [
+                107.62087597123531,
+                -6.812218109175575
+              ],
+              [
+                107.62031395027941,
+                -6.813210202765447
+              ],
+              [
+                107.62104249596342,
+                -6.813492673481832
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 124
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "smpcikahuripan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.60366212149142,
+                -6.815079892387843
+              ],
+              [
+                107.60380330646035,
+                -6.8162154089846325
+              ],
+              [
+                107.6041845058785,
+                -6.815178023557081
+              ],
+              [
+                107.6041986243751,
+                -6.815037836165587
+              ],
+              [
+                107.60366212149142,
+                -6.815079892387843
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 125
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "imahseniman"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.60638094966555,
+                -6.8210590531700745
+              ],
+              [
+                107.60616194376837,
+                -6.822275967490981
+              ],
+              [
+                107.60660416721544,
+                -6.822585422872962
+              ],
+              [
+                107.60764444522766,
+                -6.822221603687325
+              ],
+              [
+                107.6078676627759,
+                -6.821690510815245
+              ],
+              [
+                107.60638094966555,
+                -6.8210590531700745
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 126
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "tukangbuahbuahan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.61231847538943,
+                -6.818256129626391
+              ],
+              [
+                107.61117866490167,
+                -6.820072881864931
+              ],
+              [
+                107.6121385053134,
+                -6.820668536836649
+              ],
+              [
+                107.61261842551852,
+                -6.819685705735893
+              ],
+              [
+                107.61323332328283,
+                -6.819968642169485
+              ],
+              [
+                107.6137432385002,
+                -6.818941135378367
+              ],
+              [
+                107.61231847538943,
+                -6.818256129626391
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 127
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlngrandhotel"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.62231846128321,
+              -6.817437822238432
+            ],
+            [
+              107.61827180556458,
+              -6.815652021782398
+            ],
+            [
+              107.61749244964858,
+              -6.816351461086981
+            ],
+            [
+              107.61455487735003,
+              -6.8151758072031186
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnminatu"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.6221611972735,
+              -6.81567588465299
+            ],
+            [
+              107.61669997278779,
+              -6.813075228312897
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnjayagiri"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.62130957706614,
+              -6.800124933016178
+            ],
+            [
+              107.62125256504584,
+              -6.804144294000764
+            ],
+            [
+              107.61857300009575,
+              -6.808786331018311
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnpasiripis"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.61789512098187,
+              -6.793360681703902
+            ],
+            [
+              107.61734922674788,
+              -6.805789219844144
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnmanoko"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.60882732230101,
+              -6.805933727667906
+            ],
+            [
+              107.60932632191424,
+              -6.803858886934947
+            ],
+            [
+              107.6102931336655,
+              -6.800421444501453
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlncipariuk"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.60033124517105,
+              -6.787453129570707
+            ],
+            [
+              107.6008064778166,
+              -6.790137064346652
+            ],
+            [
+              107.60145992270304,
+              -6.793558322134643
+            ],
+            [
+              107.60199455942796,
+              -6.796743609235051
+            ],
+            [
+              107.6018163471872,
+              -6.800164820017102
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "banyuhurip"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.60385371317147,
+                -6.817898789000623
+              ],
+              [
+                107.60337474977496,
+                -6.818961840935501
+              ],
+              [
+                107.60445476527605,
+                -6.819474716025525
+              ],
+              [
+                107.60504642594162,
+                -6.818290439987919
+              ],
+              [
+                107.60385371317147,
+                -6.817898789000623
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 134
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "sekolahkorpswanita"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.60912455412966,
+                -6.8250843062541975
+              ],
+              [
+                107.61060642805148,
+                -6.823326830005897
+              ],
+              [
+                107.60943327785282,
+                -6.822591140367081
+              ],
+              [
+                107.60805431183024,
+                -6.824532541138041
+              ],
+              [
+                107.60912455412966,
+                -6.8250843062541975
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 135
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "boscha"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.6149322438718,
+                -6.824005388340183
+              ],
+              [
+                107.61391814952691,
+                -6.82557868311666
+              ],
+              [
+                107.61810128869871,
+                -6.82617653377433
+              ],
+              [
+                107.6185449549738,
+                -6.8245088432316265
+              ],
+              [
+                107.6149322438718,
+                -6.824005388340183
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 136
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "kampunggajah"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.59662887482,
+                -6.827363585780759
+              ],
+              [
+                107.59427542599133,
+                -6.826374955460295
+              ],
+              [
+                107.59201249442549,
+                -6.830868713187257
+              ],
+              [
+                107.59518059861932,
+                -6.831407961277719
+              ],
+              [
+                107.59662887482,
+                -6.827363585780759
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 137
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlncigugurgirang"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58656958405146,
+              -6.8219128155185444
+            ],
+            [
+              107.58411737988251,
+              -6.829276674108115
+            ],
+            [
+              107.58615091504765,
+              -6.8296329869716175
+            ],
+            [
+              107.58495471789149,
+              -6.839312718201683
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "gunungmasigit"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.58428753339103,
+                -6.811703293806531
+              ],
+              [
+                107.5836153886329,
+                -6.814039189135656
+              ],
+              [
+                107.58637702687656,
+                -6.814880689013776
+              ],
+              [
+                107.58678615846878,
+                -6.812153063356632
+              ],
+              [
+                107.58428753339103,
+                -6.811703293806531
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 139
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlntercisaroni"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.61112730169435,
+              -6.79755002303682
+            ],
+            [
+              107.61037891052479,
+              -6.799916300872937
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnsukatani"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.61068407685883,
+              -6.800380081803951
+            ],
+            [
+              107.61228045704996,
+              -6.800999585072418
+            ],
+            [
+              107.61499741012307,
+              -6.804456798322292
+            ],
+            [
+              107.61610431693128,
+              -6.80515623150167
+            ],
+            [
+              107.61606406577368,
+              -6.805815696137458
+            ],
+            [
+              107.61618481924472,
+              -6.806035517481419
+            ],
+            [
+              107.61604394019577,
+              -6.8067349483617505
+            ],
+            [
+              107.61588293556889,
+              -6.8074943293051575
+            ],
+            [
+              107.6155005495815,
+              -6.807734133564566
+            ],
+            [
+              107.61497728454515,
+              -6.807953954029998
+            ],
+            [
+              107.61489678223177,
+              -6.808133807063129
+            ],
+            [
+              107.61509803801437,
+              -6.807973937703224
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "gangsukalaksanaII"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.61340028067951,
+              -6.809974566554004
+            ],
+            [
+              107.61376666940271,
+              -6.809241273942462
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnbabakan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.61454419548107,
+              -6.8092108320410745
+            ],
+            [
+              107.61455315863725,
+              -6.809522329643983
+            ],
+            [
+              107.61451730601249,
+              -6.809762627656426
+            ],
+            [
+              107.61446352707378,
+              -6.810038525226091
+            ],
+            [
+              107.6144366376052,
+              -6.810180923910025
+            ],
+            [
+              107.61425737447655,
+              -6.810341122378418
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnadiwarta"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.62247688390784,
+              -6.817780055629157
+            ],
+            [
+              107.62427739931286,
+              -6.821218088393721
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "pasarpanorama"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.6227486212918,
+                -6.816258656370138
+              ],
+              [
+                107.62248205056505,
+                -6.817339458646444
+              ],
+              [
+                107.62311885841291,
+                -6.817640906466011
+              ],
+              [
+                107.62356314295806,
+                -6.8165233428669865
+              ],
+              [
+                107.6227486212918,
+                -6.816258656370138
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 145
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnseskoau"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.62553605478394,
+              -6.815880423349967
+            ],
+            [
+              107.62486844973893,
+              -6.818578481520959
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnlapanggungsari"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.62273098152264,
+              -6.815967819152036
+            ],
+            [
+              107.62514808742259,
+              -6.8168686672510574
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnpunclut"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.62229743964139,
+              -6.817843308679684
+            ],
+            [
+              107.6217742235986,
+              -6.820298634742812
+            ],
+            [
+              107.62258396114339,
+              -6.822568406389479
+            ],
+            [
+              107.62452733501539,
+              -6.822828161839766
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnpuspacempaka"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.59542225487303,
+              -6.818518332892893
+            ],
+            [
+              107.60056724220954,
+              -6.818691996243189
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnpojokgirang"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.60575962371377,
+              -6.792145587377391
+            ],
+            [
+              107.6057305939218,
+              -6.793932799388699
+            ],
+            [
+              107.60491775972764,
+              -6.794884054685994
+            ],
+            [
+              107.60465649159272,
+              -6.796671256520071
+            ],
+            [
+              107.60512096827591,
+              -6.798689057057189
+            ],
+            [
+              107.60596283226198,
+              -6.799352046812103
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jlnsukamantri"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.617544600548,
+              -6.81596275632981
+            ],
+            [
+              107.6181345502203,
+              -6.814247254128418
+            ]
+          ],
+          "type": "LineString"
+        }
+      }
+    ]
+  }
