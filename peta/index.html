@@ -1,54 +1,55 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
-  </head>
+<head>
+    <title>Tugas May</title>
+</head>
 <body>
-<style>
-  .maylindaopenlayer{
-    padding: 10px;
-    margin: 10px;
-    border: 1px solid black;
-    border: transparent;
-    width: 200px;
-    background-color: rgb(126, 185, 236);
-    color: white;
-    border-radius: 30px;
-    text-align: center;
-  }
-  .maylindaopenlayer:hover{
-    padding: 10px;
-    margin: 10px;
-    border: 1px solid black;
-    border: transparent;
-    width: 200px;
-    background-color: rgb(255, 138, 20);
-    color: white;
-    border-radius: 30px;
-    text-align: center;
-    box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.5);
-  }
-  .maylindaopenlayer a{
-    color: white;
-    text-decoration: none;
-  }
-</style>
-
-<div class="maylindaopenlayer">
-  <a href="./openlayer/index.html">Maylinda Tugas - Open Layer</a>
+    <h1>Nama : Maylinda Christy</h1>
+    <h1>NPM : 1214057</h1>
+    <h1>Kelas : 3C</h1>
+    <div id="map"></div>
+    <div class="point-table">
+    <h1>Point</h1>
+    <table id="pointTable" border="1">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Coordinate</th>
+                <th>Type</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
 </div>
 
-<table class="table">
-  <tbody id="lokasi">
-    <tr>
-      <th>Type</th>
-      <th>Nama</th>
-      <th>Kordinat</th>
-    </tr>
-  </tbody>
-</table>
+<div class="polygon-table">
+    <h1>Polygon</h1>
+    <table id="polygonTable" border="1">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Coordinate</th>
+                <th>Type</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+</div>
 
-<script type="module" src="./get.js"></script>
-
+<div class="polyline-table">
+    <h1>Polyline</h1>
+    <table id="polylineTable" border="1">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Coordinate</th>
+                <th>Type</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+</div>
+    <script src="https://cdn.jsdelivr.net/npm/openlayers@4.6.5/dist/ol.js"></script>
+    <script type="module" src="./app.js"></script>
 </body>
 </html>
