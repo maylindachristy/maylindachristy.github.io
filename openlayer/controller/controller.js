@@ -1,4 +1,4 @@
-import {addChild} from "../../element.js";
+import {addChild} from "../element.js";
 import {tableTemplate, tableRowClass, tableTag} from "../template/template.js";
 import {map} from '../config/configpeta.js';
 

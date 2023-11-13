@@ -3,8 +3,8 @@ import {toStringHDMS} from 'https://cdn.skypack.dev/ol/coordinate.js';
 import {overlay,map,popupinfo,idmarker} from '../config/configpeta.js';
 import {clickpopup} from '../template/template.js';
 import {insertMarker,deleteMarker} from './marker.js';
-import {setInner,textBlur, getValue,setValue} from '../../element.js';
-import { postBiasa } from "../../api.js";
+import {setInner,textBlur, getValue,setValue} from '../element.js';
+import { postBiasa } from "../api.js";
 import {URLPostPoint} from '../template/template.js'
 
 
